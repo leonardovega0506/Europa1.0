@@ -1,0 +1,13 @@
+.full-height {
+    height: 100%;
+}
+
+.padded {
+    padding-left: 40px;
+    padding: 30px;
+}
+
+.with-icon {
+    display: flex;
+    align-items: center;
+}
